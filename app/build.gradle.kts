@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "fr.antoinehory.calculatrice"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "fr.antoinehory.calculatrice"
